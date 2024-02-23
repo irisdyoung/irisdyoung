@@ -10,6 +10,8 @@ I work on crystallography data reduction software for the steps between photons 
 #### For fellow software developers:
 All my work is open source and mostly under the cctbx project (pinned -- navigate to cctbx_project/xfel/ui for more of my contributions). It's mostly python with a bunch of C++ under the hood (including some low-level stuff redundant with scipy and numpy because those weren't around yet!), plus a user-facing wxPython GUI. More recently we've done a ton of work with GPU acceleration (using Kokkos, to support NVIDIA, Intel and AMD architectures) and scaling up at supercomputing centers at national labs in anticipation of next-gen experimental capabilities. I derive too much joy from writing bash-sed-awk monstrosities on the occasions we need them to fix an urgent problem during an experiment, and I guess I'm most proud of the fact that I somewhat understand git.
 
+
+<!---
 ### Hobbies
 
 - Coffee
@@ -44,3 +46,4 @@ All my work is open source and mostly under the cctbx project (pinned -- navigat
   - Reading
   - Patterns and symmetry
   - Neuro[philosophy|biology|science]
+--->
