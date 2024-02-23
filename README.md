@@ -1,16 +1,13 @@
-### Hi there 👋
+### Work
+I'm currently a computational scientist at Lawrence Berkeley National Laboratory in the field of macromolecular X-ray crystallography, specifically at X-ray free electron lasers (XFELs). Over the last decade my research projects have focused on computational methods development for serial crystallography and cryoEM, investigating the mechanism of oxygenic photosynthesis through pump-probe XFEL experiments, density modification in XRD/EM maps, ML-aided feature discovery in XRD/EM maps, and investigating the functional roles and mechanisms of posttranscriptional modifications on ribosomes. I enjoy projects at the interfaces of multiple fields.
 
-<!--
-**irisdyoung/irisdyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+The description I give to non-scientists is that I use my degree in chemistry to write software to do math that models the physics of experiments that we're running to learn about biology.
 
-Here are some ideas to get you started:
+#### For fellow structural biologists:
+I work on crystallography data reduction software for the steps between photons hitting the detector and a merged set of structure factors. I also support XFEL experiments, both on site and remotely, and assist in post-experiment data processing as needed. My PhD focused on using simultaneous XFEL crystallography and XES spectroscopy to probe the water splitting reaction in oxygenic photosynthesis. I did a postdoc in computational methods development for cryoEM, and I'm now back to XFEL crystallography but still in methods development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### For fellow software developers:
+All my work is open source and mostly under the cctbx project (pinned -- navigate to cctbx_project/xfel/ui for more of my contributions). It's mostly python with a bunch of C++ under the hood (including some low-level stuff redundant with scipy and numpy because those weren't around yet!), plus a user-facing wxPython GUI. More recently we've done a ton of work with GPU acceleration (using Kokkos, to support NVIDIA, Intel and AMD architectures) and scaling up at supercomputing centers at national labs in anticipation of next-gen experimental capabilities. I derive too much joy from writing bash-sed-awk monstrosities on the occasions we need them to fix an urgent problem during an experiment, and I guess I'm most proud of the fact that I somewhat understand git.
+
+### Hobbies
+My longest-standing pastime is all things coffee, followed closely by language learning and a love of patterns and symmetry. I have too many different ways of making coffee (they have overrun my coffee cupboard), but my favorite remains the classic latte, and by now I can make a better latte than I can buy. I'm trying to refresh my Japanese and learn Dutch and German simultaneously/comparatively, which of course is terrible for speed of learning, but fascinating. So far I've found ASL the most challenging but also deeply satisfying -- I only have one semester under my belt but hope to take a lot more. I studied and continue to study all the math and science I possibly can. Right now I seem to be pretty engrossed in electronics, CAD, 3D-printing, and just generally DIY-ing/fixing/repairing things. Other active interests include sewing, reading, cooking, bike commuting, and public transit. My journeys in aikido and pottery are on hold but I definitely want to pick them back up when I'm not already overcommitted. I'm casually interested in neuroscience: I've taken one course in neurophilosophy and can read literature in neuroscience, with effort.
