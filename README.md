@@ -4,6 +4,8 @@
 
 I have until recently been a computational scientist at Lawrence Berkeley National Laboratory in the field of macromolecular X-ray crystallography, specifically at X-ray free electron lasers (XFELs). Over the last decade my research projects have focused on computational methods development for serial crystallography and cryoEM, investigating the mechanism of oxygenic photosynthesis through pump-probe XFEL experiments, density modification in XRD/EM maps, ML-aided feature discovery in XRD/EM maps, and investigating the functional roles and mechanisms of posttranscriptional modifications on ribosomes. I enjoy projects at the interfaces of multiple fields.
 
+From October 2024, I will be working with [Andrea Thorn](https://thorn-lab.com/) at [HARBOR](https://www.cui.uni-hamburg.de/en/harbor.html) (Hamburg, Germany) and in January 2025 I will transition to a project under [Arwen Pearson](https://www.physik.uni-hamburg.de/en/inf/ag-pearson/personen/pearson-arwen.html).
+
 #### For fellow structural biologists:
 I work on crystallography data reduction software for the steps between photons hitting the detector and a merged set of structure factors. I also support XFEL experiments, both on site and remotely, and assist in post-experiment data processing as needed. My PhD focused on using simultaneous XFEL crystallography and XES spectroscopy to probe the water splitting reaction in oxygenic photosynthesis. I did a postdoc in computational methods development for cryoEM, and I'm now back to XFEL crystallography but still in methods development.
 
